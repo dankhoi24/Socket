@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Socket\Server\Server\Source.cpp(49,52): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\Socket\Server\Server\Source.cpp(73,48): warning C4244: '=': conversion from 'SOCKET' to 'int', possible loss of data
+D:\Socket\Server\Server\Source.cpp(86,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Server.vcxproj -> D:\Socket\Server\x64\Debug\Server.exe
